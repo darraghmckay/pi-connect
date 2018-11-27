@@ -1,3 +1,7 @@
+Forked from [https://github.com/krawthekrow/pi-connect](https://github.com/krawthekrow/pi-connect) to make the Missing Vowels round work better. Changes:
+- Y is no longer a vowel
+- Use tildes ~ in your clues to decide where to put spaces, instead of random spacing
+
 A game engine to run Only Connect games! Very much inspired by, but not affiliated with Only Connect. This is not intended to be an exact replica of Only Connect, but a simple framework to host games in a party-like setting.
 
 Check it out at [https://lopsy.github.io/pi-connect/](https://lopsy.github.io/pi-connect/)! You do not need to fork this repository to use it. It starts out with no game data loaded, so you will need to use [pi-connect-maker](https://github.com/krawthekrow/pi-connect-maker) to generate the game configuration file and upload it using the "Config" button.
